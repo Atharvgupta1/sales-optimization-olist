@@ -69,6 +69,9 @@ The Power BI dashboard includes:
 * Delivery & review impact
 
 ---
+## 📊 Dashboard Preview
+
+![Sales Optimization Dashboard](https://github.com/Atharvgupta1/sales-optimization-olist/blob/282f4ffa0c6e4e4a7bcbd0593d15d5d3009bfe07/Dashboard-Screenshot.png)
 
 ## 💡 Business Recommendations
 
