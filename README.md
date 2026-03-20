@@ -23,8 +23,6 @@ This project addresses these challenges using data analytics.
 * Python (Pandas, NumPy)
 * SQL (PostgreSQL)
 * Power BI (Dashboard)
-* GitHub (Project showcase)
-
 ---
 
 ## 📂 Data Source
